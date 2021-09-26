@@ -516,3 +516,46 @@ body{
 .img7:hover img{
     transform: scale(1.2);
 }
+
+.Cuerpo12{
+    position: relative;
+    border: 4px solid darkblue;
+    border-radius: 30px;
+    padding-top: 1px;
+    background-color:orange;
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Mopro h1{
+    padding-left: 20px;
+    color: black;
+    padding-top: 50px;
+    display: flex;
+}
+
+.Mopro p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+}
+
+.Mopro img{
+    border: 4px solid darkblue;
+    border-radius: 14px;
+    width: 30%;
+    height: auto;
+}
+
+
+.Mopro img{
+    transition: transform 0.5s;
+}
+
+.Mopro:hover img{
+    transform: scale(1.2);
+}
+

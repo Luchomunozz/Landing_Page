@@ -559,3 +559,91 @@ body{
     transform: scale(1.2);
 }
 
+.Cuerpo13{
+    position: relative;
+    border: 4px solid darkblue;
+    border-radius: 15px;
+    padding-top: 1px;
+    background-color:orange;
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Cuerpo13 h1{
+    padding-left: 20px;
+    color: black;
+    padding-top: 50px;
+    display: flex;
+}
+
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    background: white; 
+    width: 100%; 
+    border-collapse: collapse; 
+}
+
+tr:nth-of-type(odd) { 
+    background: white; 
+}
+th { 
+    background: darkslateblue; 
+    color: white; 
+    font-weight: bold; 
+}
+td, th { 
+    padding: 6px; 
+    border: 4px solid darkblue; 
+    text-align: left; 
+}
+
+.Cuerpo14{
+    position: relative;
+    border: 4px solid darkblue;
+    border-radius: 15px;
+    padding-top: 1px;
+    background-color:orange;
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.conclusion h1{
+    padding-left: 20px;
+    color: black;
+    padding-top: 50px;
+    display: flex;
+}
+
+.conclusion p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+}
+
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    border: 4px solid darkblue;
+    border-radius: 15px;
+    padding-top: 1px;
+    background-color:orange;
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
